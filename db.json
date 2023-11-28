@@ -29,8 +29,8 @@
     "name": "typicode"
   },
   "rates": [
-    { "currency": "USD", "rate": 1.00 },
-    { "currency": "CAD", "rate": 1.36 },
-    { "currency": "EUR", "rate": 0.91 } 
+    { "currency": "USD", "rateExchange": 1.00 },
+    { "currency": "CAD", "rateExchange": 1.36 },
+    { "currency": "EUR", "rateExchange": 0.91 } 
   ]
 }
