@@ -32,5 +32,127 @@
     { "currency": "USD", "rate": 1.00 },
     { "currency": "CAD", "rate": 1.36 },
     { "currency": "EUR", "rate": 0.91 } 
-  ]
+  ],
+  "bookings": [
+        {
+            "reference": "75566138",
+            "amount": 53847707,
+            "amount_received": 53847702,
+            "country_from": "Lothal",
+            "sender_full_name": "Han Solo",
+            "sender_address": "1009 Saul Mountain",
+            "school": "Southern Missouri Academy",
+            "currency_from": "CAD",
+            "student_id": 947492,
+            "email": "cheyanne@satterfield.name"
+        },
+        {
+            "reference": "121833555",
+            "amount": 15438317,
+            "amount_received": 15438327,
+            "country_from": "Jakku",
+            "sender_full_name": "Jango Fett",
+            "sender_address": "62982 Malinda Rapids",
+            "school": "Rosenbaum University",
+            "currency_from": "CAD",
+            "student_id": 360456,
+            "email": "onie@bahringer.co"
+        },
+        {
+            "reference": "8461553",
+            "amount": 104167442,
+            "amount_received": 104167432,
+            "country_from": "Yavin",
+            "sender_full_name": "Leia Organa",
+            "sender_address": "36619 Euna Terrace",
+            "school": "Northern Ebert Academy",
+            "currency_from": "EUR",
+            "student_id": 652239,
+            "email": "haie@batz.com"
+        },
+        {
+            "reference": "2208652",
+            "amount": 11648734,
+            "amount_received": 11648738,
+            "country_from": "Kamino",
+            "sender_full_name": "Anakin Skywalker",
+            "sender_address": "8741 Spencer Mountain",
+            "school": "Kessler Academy",
+            "currency_from": "EUR",
+            "student_id": 354267,
+            "email": "gianni@turnerklocko.com"
+        },
+        {
+            "reference": "72767277",
+            "amount": 86464663,
+            "amount_received": 86464654,
+            "country_from": "Lothal",
+            "sender_full_name": "Wedge Antilles",
+            "sender_address": "9753 Burnice Place",
+            "school": "Glover College",
+            "currency_from": "USD",
+            "student_id": 681369,
+            "email": "hailee@beerhuels.co"
+        },
+        {
+            "reference": "37055241",
+            "amount": 118618430,
+            "amount_received": 118618434,
+            "country_from": "Lothal",
+            "sender_full_name": "Luke Skywalker",
+            "sender_address": "285 Bernier Squares",
+            "school": "North Marvin",
+            "currency_from": "USD",
+            "student_id": 662509,
+            "email": "letitia.gibson@armstrong.co"
+        },
+        {
+            "reference": "107880577",
+            "amount": 10,
+            "amount_received": 0,
+            "country_from": "Spain",
+            "sender_full_name": "AAAA",
+            "sender_address": "Carrer Pilota Valenciana 9-13",
+            "school": "MIT",
+            "currency_from": "eur",
+            "student_id": 1,
+            "email": "jorge@ge.org.es"
+        },
+        {
+            "reference": "103866028",
+            "amount": 20,
+            "amount_received": 12,
+            "country_from": "Spain",
+            "sender_full_name": "BBBBB",
+            "sender_address": "Carrer Pilota Valenciana 9-13",
+            "school": "MIT",
+            "currency_from": "eur",
+            "student_id": 2,
+            "email": "jorge.mora@flowable.com"
+        },
+        {
+            "reference": "131176183",
+            "amount": null,
+            "amount_received": 8,
+            "country_from": "Spain",
+            "sender_full_name": "CCCCCC",
+            "sender_address": "dasdad a sdas d",
+            "school": "MIT",
+            "currency_from": "eur",
+            "student_id": 3,
+            "email": "eljolge@gmail.com"
+        },
+        {
+            "reference": "23125840",
+            "amount": 1111,
+            "amount_received": 1107,
+            "country_from": "Spain",
+            "sender_full_name": "Pepito Pérez",
+            "sender_address": "adasd dasd",
+            "school": "MIT",
+            "currency_from": "eur",
+            "student_id": 1,
+            "email": "pepe"
+        }
+    ]
 }
